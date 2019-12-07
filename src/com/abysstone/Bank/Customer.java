@@ -1,9 +1,9 @@
-package com.abysstone;
+package com.abysstone.Bank;
 
 import java.util.ArrayList;
 
 /**
- * Created by dev on 4/11/17.
+ * Created by abysstone on 4/11/17.
  */
 public class Customer {
     private String name;
